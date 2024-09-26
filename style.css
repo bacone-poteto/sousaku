@@ -1,3 +1,23 @@
 body {
-    background-color: #e7e7e7;
+    background-color:#cccccc;
+}
+
+.intro {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-style: double;
+    border-color: #e7c44e;
+    }
+
+h1 {
+    border-left: 6px solid #0099ff;
+    border-bottom: 3px solid #0099ff;
+    padding-left: 8px;
+    display: inline-block;
+    }
+
+h2 {
+    border-left: 3px solid #cc2b2b;
+    border-bottom: 1.5px solid #cc2b2b;
+    padding-left: 4px;
 }
