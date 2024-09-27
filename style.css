@@ -13,6 +13,10 @@ body {
     border-color: #e7c44e;
     }
 
+button {
+    color: #535353 !important;
+}
+
 h1 {
     border-left: 6px solid #0099ff;
     border-bottom: 3px solid #0099ff;
