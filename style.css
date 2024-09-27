@@ -14,7 +14,8 @@ body {
     }
 
 button {
-    color: #535353 !important;
+    padding: 10px 20px;
+    background: #535353;
 }
 
 h1 {
