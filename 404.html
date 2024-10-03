@@ -19,11 +19,17 @@ permalink: /404.html
         </script>
     </head>
     <body>
-        <h1>ようこそいらっしゃいましたが...</h1>
+        <h1 id="head">ようこそいらっしゃいましたが...</h1>
         <p>なぜあなたがここに来たのかはあえて聞きません。</p>
         <p>しかし、このメッセージを見ているということは、あなたは存在しないページにアクセスしようとしています。</p>
         <p>ですが、なにもないのでお帰りください。</p>
         <hr>
         <button type="button"><a href="/sousaku/index.html">メインページに戻る</a></button>
+        <div class="header">
+            <button type="button" class="headbutton"><a href="/sousaku/index.html">メインページに戻る</a></button> |
+            <button type="button" class="headbutton"><a href="/sousaku/index.html">一つ前のページに戻る</a></button> | 
+            <button type="button" class="headbutton"><a href="#head">ページの先頭に戻る</a></button> | 
+            <button type="button" class="headbutton">ページごとに違う内容を挿入予定</button>
+        </div>
     </body>
 </html>

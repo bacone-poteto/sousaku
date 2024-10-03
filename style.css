@@ -4,6 +4,7 @@
 
 body {
     background-color:#535353 !important;
+    margin: 2em 0 1em;
 }
 
 .intro {
@@ -12,6 +13,21 @@ body {
     border-style: double;
     border-color: #e7c44e;
     }
+
+.header{
+    background-color: #324480;
+    border:3px solid #324480;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.headbutton{
+    background: #535353 !important;
+    padding: 5px 10px !;
+}
 
 button {
     padding: 10px 20px;
