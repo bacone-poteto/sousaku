@@ -26,7 +26,7 @@ body {
 
 .headbutton{
     background: #535353 !important;
-    padding: 5px 10px !;
+    padding: 5px 10px !important
 }
 
 button {
