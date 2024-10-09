@@ -4,7 +4,7 @@ Therefore, this text is written using translation software (DeepL Translate).
 Therefore, there is a possibility that some parts of the text may be inappropriate.
 **English is written below Japanese.**
 ## このリポジトリについて
-このリポジトリは、かなりHTMLのウェブの構造と似ています。というか。構造は同じように作ってあります。
+このリポジトリは、かなりHTMLのウェブの構造と似ています。というか、構造は同じように作ってあります。
 Github Pagesを使用して、Webの公開の練習として、使用しています。
 Github Pagesの「禁じられていること」を私なりに解釈し、教育練習目的ならば許されていることを確認したので、Github Pagesを使用しています。
 ## about this repository
